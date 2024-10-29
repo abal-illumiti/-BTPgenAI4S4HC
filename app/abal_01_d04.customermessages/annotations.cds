@@ -1,0 +1,1 @@
+using abal_01_d04Srv as service from '../../srv/service';

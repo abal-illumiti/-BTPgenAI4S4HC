@@ -1,0 +1,11 @@
+ID;customerMessageID;titleEnglish;customerName;productName;summaryEnglish;messageCategory;messageUrgency;messageSentiment;titleCustomerLanguage;customerId;productId;summaryCustomerLanguage;originatingCountry;sourceLanguage;fullMessageCustomerLanguage;fullMessageEnglish;suggestedResponseEnglish;suggestedResponseCustomerLanguage
+27e4d3f5-d92b-4cb5-886c-06e465087b90;7338;;customerName291;Freezer;;;;;Compresseur défectueux;5318;5782;;France;;Le compresseur du congélateur ne fonctionne pas correctement, causant des problèmes de refroidissement.;;;
+4b7746cc-31f3-4c93-b538-1fc8c72d6131;3209;;customerName2130;Freezer;;;;;Problème de drainage;4304;8209;;France;;L'eau ne s'écoule pas correctement du congélateur, causant des accumulations de glace.;;;
+eb0e2c74-f430-4906-a8a2-864460b794c9;9379;;customerName9867;Freezer;;;;;Joints défectueux;7544;9820;;France;;Les joints du congélateur sont défectueux, entraînant des fuites d'air.;;;
+f0af42ae-9765-451a-9bd4-c7162faa25a8;8583;;customerName98;Freezer;;;;;Compresseur défectueux;8176;7754;;France;;Le compresseur du congélateur fait un bruit anormal et ne refroidit pas correctement.;;;
+3185e18e-a245-4738-8824-3f00c29fb74c;5096;;customerName5564;Freezer;;;;;Problème de drainage;8288;3429;;France;;Le système de drainage du congélateur est obstrué, causant des fuites d'eau.;;;
+77e3d1a7-e91f-4006-80b5-4f9afe01c9cd;6072;;customerName9338;Freezer;;;;;Joints défectueux;7195;3752;;France;;Les joints du congélateur sont usés, entraînant une perte d'efficacité.;;;
+eddf0eff-2a59-4d7e-b293-030f7719146d;3442;;customerName1931;Freezer;;;;;Compresseur défectueux;1245;6108;;France;;Le compresseur du congélateur surchauffe fréquemment.;;;
+011a66c9-3523-4638-a0be-e9b9c52bfc1d;2947;;customerName9962;Freezer;;;;;Problème de drainage;7479;1875;;France;;L'eau s'accumule au fond du congélateur en raison d'un mauvais drainage.;;;
+38739378-c7ce-4116-97e6-8395d774eba0;6566;;customerName774;Freezer;;;;;Joints défectueux;8449;4869;;France;;Les joints du congélateur ne sont pas étanches, causant des problèmes de température.;;;
+26f24422-4b18-4b61-9dbe-aacc497a6f59;787;;customerName7682;Freezer;;;;;Compresseur défectueux;162;8470;;France;;Le compresseur du congélateur ne démarre pas correctement, causant des interruptions de refroidissement.;;;
